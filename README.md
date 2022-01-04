@@ -1,4 +1,4 @@
-## **Introdução ao Git/GitHub** 
+## **Introdução ao Git/GitHub** :computer::man:
 
 
 
@@ -47,5 +47,7 @@ TREE: armazena os BLOBS
 - Git init (iniciar um git) 
 - Git add (lançar os arquivos no git para reconhecimento) 
 - Git commit (armazena os arquivos no git) 
+- Git Push ( enviar versionamento para nuvem.             -git push origin)
 
 Leitura : [Git - Gravando Alterações em Seu Repositório (git-scm.com)](https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-Alterações-em-Seu-Repositório) 
+
